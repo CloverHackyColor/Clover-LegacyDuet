@@ -1,0 +1,3 @@
+-1 Make sure your Clover EFI folder is present in this package. You need minimum Clover_r5150
+-2 Run Clover_Duet.command
+-🚫 Do not use this program on a disk where Clover or OpenCore is already installed!
