@@ -8,6 +8,10 @@
 
 
 #### Run `Clover_Duet.command`
+## Result
+![result](https://github.com/CloverHackyColor/Clover-LegacyDuet/assets/6248794/667cc1a0-fcff-4d3f-8537-644a1c624bb8)
+
+
 - 🚫 Do not use this program on a disk where Clover or OpenCore is already installed!
   
 #### Demo: -> /Volume /Install macOS Sonoma (HFS+J)
