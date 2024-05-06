@@ -2,7 +2,7 @@
 
 
 #### Clone the repository
- `git clone https://github.com/chris1111/Clover-LegacyDuet.git`
+ `git clone https://github.com/CloverHackyColor/Clover-LegacyDuet.git`
  
 - Make sure your Clover EFI folder is present in this package. You need minimum Clover_r5150
 - Run Clover_Duet.command
